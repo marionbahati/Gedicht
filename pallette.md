@@ -3,7 +3,7 @@
 
 - Rot 
 - Grün
-- hellgrün
-- dunkengrün
+- hellblau
+- dunkenblau
 - Blau 
 - Alles tolle
